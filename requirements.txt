@@ -1,0 +1,11 @@
+numpy
+tqdm
+torch
+pytorch-lightning
+transformers
+torchmetrics
+nltk
+matplotlib
+tensorflow
+mido
+pretty_midi
