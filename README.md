@@ -31,8 +31,8 @@ This repository contains the code and resources for the paper [**"Controllable S
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/lyrics-generation.git
-   cd lyrics-generation
+   git clone https://github.com/paranoid2droid/con-prattn.git
+   cd con-prattn
    ```
 2. Create a Conda environment (Python 3.8+):
 
